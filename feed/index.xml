@@ -12,16 +12,16 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 25 Jun 2024 19:08:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Nov 2024 16:50:58 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/06/ByteZoomFav.png</url>
+	<url>/wp-content/uploads/2024/11/ByteZoom-Fav.png</url>
 	<title>ByteZoom</title>
 	<link>/</link>
 	<width>32</width>
