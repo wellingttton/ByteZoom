@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre ByteZoom	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://bytezoom.com.br/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bytezoom.com.br/</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Nov 2024 21:09:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
